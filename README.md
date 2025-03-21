@@ -2,7 +2,7 @@
 
 A delightful e-commerce application for ordering delicious desserts online. This project provides a simple and intuitive interface for browsing desserts and managing a shopping cart.
 
-![Dessert Shop Screenshot](https://via.placeholder.com/800x400?text=Dessert+Shop+Screenshot)
+![Dessert Shop Screenshot](https://images2.imgbox.com/39/3e/pngFh0O1_o.png)
 
 ## ✨ Features
 
@@ -72,9 +72,6 @@ A delightful e-commerce application for ordering delicious desserts online. This
 - Quantity selection for cart items
 - Wishlist functionality
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👥 Contributing
 
