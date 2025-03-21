@@ -1,0 +1,17 @@
+$rose : hsl(12, 64%, 33%);
+
+
+.rose{
+    border-color: $rose;
+
+}
+
+.rose:hover{
+    color: $rose;
+}
+.gridezign{
+    display: grid;
+    grid-template-columns: minmax(250px,1fr);
+    grid-template-rows: minmax(250px,1fr);
+    
+}
