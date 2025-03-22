@@ -61,16 +61,7 @@ A delightful e-commerce application for ordering delicious desserts online. This
 - `Cart`: Component for managing the shopping cart functionality
 - Local storage is used to persist cart data between sessions
 
-## 🧩 Future Enhancements
 
-- User authentication and profiles
-- Order history
-- Payment processing integration
-- Filtering and search functionality
-- Admin dashboard for product management
-- Product reviews and ratings
-- Quantity selection for cart items
-- Wishlist functionality
 
 
 ## 👥 Contributing
